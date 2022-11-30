@@ -1,0 +1,10 @@
+db-first
+
+id VARCHAR(30) Primary-KEY AUTO-Increment
+marca VARCHAR(30) Not Null
+GENERE AUTO VARCHAR(255) NOT Null
+Prezzo Decimal (7,1) Not null
+KM MediumINT UNSIGNED NOT null
+anno di produzione Year NOT Null
+anno vendita Year Null
+cilindrata SmallInt default 
